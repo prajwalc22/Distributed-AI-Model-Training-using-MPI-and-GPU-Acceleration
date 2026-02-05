@@ -91,5 +91,5 @@ Users can upload an image and get **Top-3 predictions** with confidence scores t
 
 ---
 
-## 📁 Suggested Repository Structure
+
 
